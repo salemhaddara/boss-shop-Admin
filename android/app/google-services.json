@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "977302251206",
+    "project_id": "bossshop-81871",
+    "storage_bucket": "bossshop-81871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977302251206:android:f6bd3ea6d77c73382ed9c7",
+        "android_client_info": {
+          "package_name": "com.example.bossshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7at6-NcYEpJDu1f-UWaDuwjp_FBE2BIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977302251206:android:253592607c8c9b232ed9c7",
+        "android_client_info": {
+          "package_name": "com.example.bossshopadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7at6-NcYEpJDu1f-UWaDuwjp_FBE2BIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
